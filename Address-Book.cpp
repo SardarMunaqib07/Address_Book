@@ -1,3 +1,13 @@
+//Name :Syed Ali Ahmed                          department: FBAS/BSSE/F-21
+//Roll No :4308                                 university:International Islamic University Islamabad
+
+//       1.save data to the book
+//       2.display data of the person
+//       3.search data from the address book
+//       4.sort the record
+//       5.print the data of people having birthday in the present month
+//       6.print the details according to the association
+
 
 #include <iostream>
 #include <Windows.h>
